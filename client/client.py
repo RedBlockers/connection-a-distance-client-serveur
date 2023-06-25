@@ -5,7 +5,7 @@ import mss.tools
 
 
 # Adresse et port du serveur
-server_address = ("79.85.62.114", 25565)
+server_address = ("[IP]", [PORT])
 start_folder = "C:/"
 current_folder = start_folder
 last_folder = [current_folder]
